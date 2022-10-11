@@ -1,5 +1,7 @@
 # Shift into FOSS 2022
 
+https://forum.members.fsf.org/t/shift-into-foss-2022/4552?u=uvinduperera
+
 <details>
   <summary>What is FOSS?</summary>
   
